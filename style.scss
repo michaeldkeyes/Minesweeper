@@ -3,10 +3,14 @@
   width: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-color: grey;
+  background-color: #808080;
 
   div {
     height: 40px;
     width: 40px;
   }
+}
+
+.bomb {
+  background-color: #ffa500;
 }
