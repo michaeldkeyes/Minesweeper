@@ -1,1 +1,1 @@
-.grid{height:400px;width:400px;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;background-color:#808080}.grid div{height:40px;width:40px}.bomb{background-color:#ffa500}
+.container{width:500px;-ms-flex-line-pack:center;align-content:center}.grid{height:400px;width:400px;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;background-color:#808080}.grid div{height:40px;width:40px}.checked{background-color:red}.bomb{background-color:#ffa500}
